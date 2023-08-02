@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quizzz/static/css/main.af2453c8.css",
+    "main.js": "/quizzz/static/js/main.b0f5a856.js",
+    "static/js/787.9ba1e633.chunk.js": "/quizzz/static/js/787.9ba1e633.chunk.js",
+    "index.html": "/quizzz/index.html",
+    "main.af2453c8.css.map": "/quizzz/static/css/main.af2453c8.css.map",
+    "main.b0f5a856.js.map": "/quizzz/static/js/main.b0f5a856.js.map",
+    "787.9ba1e633.chunk.js.map": "/quizzz/static/js/787.9ba1e633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2453c8.css",
+    "static/js/main.b0f5a856.js"
+  ]
+}
